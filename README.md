@@ -1,9 +1,8 @@
-                                      Hi 👋, I’m Md Rehan
+- Hi 👋,
 
-I'm currently a btech(CSE) stuydent at TMSL kolkata,India,on a trilling journey of exploration in the world of Artificial intelligence(AI) and machine learning(ML).Driven by a fascination with artificial intelligenc's potential to unlockinsights and solve real-world problem, I'm constansly seeking new challenges and opportunities to deepen my 
-    understanding and hone my skills
--  🌱 I’m currently learning Artificial intelligence,machine learning
+- I’m Md Rehan
 
+-I like making, breaking, experimenting, developing and learning things about the web.
 - 📫 How to reach me rehan.md0107@gmail.com
 
 
