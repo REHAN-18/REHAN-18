@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN stack project.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **rehan.md0107@gmail.com**
 
