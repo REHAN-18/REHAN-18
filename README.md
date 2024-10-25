@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=Full Stack Developer!!;Open+Source+contributor;Problem+Solver;AI/ML Enthusiast;" alt="Typing Animation">
 </div>
 
-<img align= "right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-18&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-18" /> </p>
 
@@ -58,7 +58,7 @@
 
 [![An image of @rehan18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rehan18)](https://holopin.io/@rehan18)
 
-
+<hr></hr>
 <div align="center" width="50">
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">Code Cycle<br>
 
