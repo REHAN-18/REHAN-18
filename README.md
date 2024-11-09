@@ -37,11 +37,13 @@
 <h2 align="center" style="font-family: 'Poppins', sans-serif;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats⚡ </b>
 </h2>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehan-18&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="rehan-18" </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehan-18&show_icons=true&locale=en&layout=compact&theme=radical" alt="rehan-18" </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehan-18&show_icons=true&locale=en&theme=midnight-purple" alt="rehan-18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehan-18&show_icons=true&locale=en&theme=radical" alt="rehan-18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-18&theme=midnight-purple" alt="rehan-18" /></p></br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-18&include_all_commits=true&count_private=true&count_public=true&theme=radical" /></p></br>
+
 <!-- </details> -->
 <hr></hr>
 
